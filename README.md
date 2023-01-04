@@ -43,6 +43,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phphuc0608&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=phphuc0608&style=flat-square&color=blue" alt=""/>
-</div>
