@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   HELLO
@@ -5,7 +9,7 @@
   
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="300"/>
+  <img src="https://images.unsplash.com/photo-1559163499-413811fb2344?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)" width="600" height="400"/>
 </div>
 
 ### :man_technologist: About Me :
