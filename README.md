@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 - :mortar_board: Studying IT at Vietnam Maritime University
-- :computer: Experience with using  JavaScript, Java, C# and MySQL
+- :computer: Experience with using HTML, CSS, JavaScript, Java, C# and MySQL
 - :book: Currently learning C, C++, C#, Java, Python, JavaScript, MySQL and Git/GitHub 
 ### :hammer_and_wrench: Skilled :
 <table align ="center">
