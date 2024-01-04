@@ -9,9 +9,9 @@
 </div>
 
 ### :man_technologist: About Me :
-- :mortar_board: Studying IT at Vietnam Maritime University
-- :computer: Experience with using HTML, CSS, PHP, JavaScript, SQL Server and MySQL
-- :book: Currently learning JavaScript, MySQL, PHP and Git/GitHub 
+- :mortar_board: Studying IT at Vietnam Maritime University.
+- :computer: Experience with using HTML, CSS, PHP, JavaScript, SQL Server and MySQL.
+- :book: Currently learning JavaScript, MySQL, PHP and Git/GitHub.
 ### :hammer_and_wrench: Skilled :
 <table align ="center">
   <tr>
