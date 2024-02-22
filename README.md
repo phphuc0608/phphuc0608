@@ -41,7 +41,7 @@
     <tr>
     <td>BackEnd</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />
     </td>
   </tr>
   <tr>
