@@ -49,8 +49,6 @@
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
        <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="MySQL" alt="MySQL" width="45" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLLite" alt="SQLLite" width="40" height="40"/>&nbsp;
-    </td>
   </tr>
   <tr>
     <td>VCS</td>
