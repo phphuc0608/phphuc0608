@@ -9,7 +9,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :mortar_board: Studying IT at Vietnam Maritime University.
+- :mortar_board: Graduate IT at Vietnam Maritime University and currently working at USI VietNam.
 - :computer: Experience with using HTML, CSS, PHP, JavaScript, Python, SQL Server and MySQL.
 - :book: Currently learning JavaScript, SQL, Python and Git/GitHub.
 ### :hammer_and_wrench: Skilled :
