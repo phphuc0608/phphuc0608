@@ -43,14 +43,15 @@
     <td>BackEnd</td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50" />
     </td>
   </tr>
   <tr>
     <td>Database</td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-       <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="MySQL" alt="MySQL" width="45" height="40"/>&nbsp;
+      <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="MySQL" alt="MySQL" width="45" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="45" height="40"/>&nbsp;
   </tr>
   <tr>
     <td>VCS</td>
