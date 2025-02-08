@@ -18,46 +18,46 @@
   <tr>
     <td>Languages</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width"40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="48" height="48"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td>Tools</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="48" height="48"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td>FrontEnd</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" title="VueJS" alt="VueJS" width="48" height="48"/>&nbsp;
     </td>
   </tr>
     <tr>
     <td>BackEnd</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title="laravel" alt="laravel" width="48" height="48" />&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="django" alt="django" width="48" height="48" />
     </td>
   </tr>
   <tr>
     <td>Database</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-      <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="MySQL" alt="MySQL" width="45" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="45" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="48" height="48"/>&nbsp;
+      <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="MSSQL" alt="MSSQL" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite" alt="SQLite" width="48" height="48"/>&nbsp;
   </tr>
   <tr>
     <td>VCS</td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="GIT" alt="GIT" width="48" height="48"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="48" height="48"/>&nbsp;
     </td>
   </tr>
 </table>
