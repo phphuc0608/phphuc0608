@@ -43,6 +43,7 @@
     <td>BackEnd</td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="laravel" alt="laravel" width="50" height="50" />
     </td>
   </tr>
   <tr>
