@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 - :mortar_board: Graduate IT at Vietnam Maritime University and currently working at USI VietNam.
-- 🏢 Currently working as Industry 4.0 Engineer at Universal Scientific Industrial Co., Ltd.
+- 🏢 Currently working as PM of Smart Manufacturing at Universal Scientific Industrial Co., Ltd.
 - :computer: Experience with using HTML, CSS, PHP, JavaScript, Python, SQL Server and MySQL.
 - :book: Currently learning deeply about SQL, Python, Machine Learning and Deep Learning.
 ### :hammer_and_wrench: Skilled :
